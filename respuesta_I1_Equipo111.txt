@@ -5,4 +5,5 @@ Agustín Clas
 a)Sí, puedo ver los datos que cargaron más en mi repositorio
 b)Sí, mis compañeros pueden verlo
 c)Si, si agrego un archivo todos pueden verlo.
-d)Nos estamos comunidando por whatsapp
+d)Nos estamos comunicando por whatsapp
+e)La mejor forma de comunicarnos entre nosotros dentro de GitHub es a través de un documento de texto.
